@@ -48,7 +48,6 @@ laptop-absa-project/
 | 05 | Exploratory Data Analysis | Complete | `03_exploratory_data_analysis.ipynb` | `eda_summary.pdf` |
 | 06 | Statistical Hypothesis Testing | Complete | `04_statistical_analysis.ipynb` | `statistical_analysis_report.pdf` |
 | 07 | Baseline ML Sentiment Model | Complete | `05_model_baseline.ipynb` | `model_baseline_report.pdf` |
-| Next | Aspect Extraction | Planned | - | - |
 
 ## Key Findings So Far
 
